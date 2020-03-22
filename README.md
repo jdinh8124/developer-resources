@@ -19,4 +19,15 @@
 - Edabit
 - CodeSignal
 
+## Youtubers I follow
+- Joshua Fluke
+- Code Drip
+- Web Dev Simplified
 
+## Advice I recommend outside of Coding
+- Working Out
+- Meditating and emphasis on mental health
+- Networking! Meetups are super fun, find your niche!
+- LinkedIn Articles!
+- Spend time with your family between coding
+- Listen to diverse types of music
