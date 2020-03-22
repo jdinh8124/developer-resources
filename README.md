@@ -31,3 +31,8 @@
 - LinkedIn Articles!
 - Spend time with your family between coding
 - Listen to diverse types of music
+- Take Breaks
+- Read 
+- Breathe
+- THRIVE 
+
