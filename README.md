@@ -1,5 +1,5 @@
 # Developer Resoures
-- A repository of resources that helped me grow as a developer created to help others.
+- A repository of resources that helped me grow as a developer and created to help others down a similar path.
 
 ## Background
 - To be completed
@@ -35,4 +35,3 @@
 - Read 
 - Breathe
 - THRIVE 
-
