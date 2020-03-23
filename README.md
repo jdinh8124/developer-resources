@@ -33,6 +33,7 @@
 - Listen to diverse types of music
 - Take Breaks
 - Read 
+- Find your why 
 - Breathe
 - THRIVE 
 
