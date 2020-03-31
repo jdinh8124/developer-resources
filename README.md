@@ -2,7 +2,11 @@
 - A repository of resources that helped me grow as a developer and created to help others down a similar path.
 
 ## Background
-- To be completed
+Hello, my name is James Dinh, and I am a developer who is passionate about development, coding, search engine optimization, accessibility, UX & UI design, learning new technologies and the role of technology in education.
+
+I am a dedicated individual who is passionate about learning and growing in every facet of my professional life. There have been two themes throughout my career, my willingness to lead and my drive to help others succeed. I believe that collaboration and compassion for one another can go a long way in any team. My experiences as a teacher and coach have shaped me into the person I am today, and has led me to my current passion, software development.
+
+Technology has always been a driving force in my career and it has led me to LearningFuze, where I studied Full Stack Web Development which helped me grow in the industry of coding and programming. While enrolled at LearningFuze I was immersed in HTML5, CSS3, JavaScript, NodeJs, React, PostgreSQL and a variety of other libraries and frameworks. Most importantly, I gained the skills necessary towards learning new languages and technologies that will help me continue to grow.
 
 ## Podcasts I follow
 - Front End Happy Hour
@@ -11,7 +15,7 @@
 - Software Engineering Daily
 - React Podcast
 - Complete Developer Podcast
-- Synatx
+- Syntax
 - Soft Skills Engineering
 - Full Stack Radio
 
