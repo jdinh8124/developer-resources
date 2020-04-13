@@ -52,7 +52,7 @@ Technology has always been a driving force in my career and it has led me to Lea
 - [10 Things That Require Zero Talent](https://www.linkedin.com/feed/update/urn:li:activity:6635591280305025024/)
 
 ## Articles I love from others
-[Kobe Bryant Work Ethics into your daily life by Arish Dubash](https://www.linkedin.com/pulse/8-ways-immortalize-kobe-bryants-work-ethic-your-daily-arish-dubash/)
+- [Kobe Bryant Work Ethics into your daily life by Arish Dubash](https://www.linkedin.com/pulse/8-ways-immortalize-kobe-bryants-work-ethic-your-daily-arish-dubash/)
 
 
 ## Motivational Speakers & Celebrities That Inspire Me
@@ -65,6 +65,12 @@ Technology has always been a driving force in my career and it has led me to Lea
 - Grit by Angela Duckworth
 - Start With Why by Simon Sinek
 - How to Win Friends and Influence People by Dale Carnegie
+
+## Videos That Inspire Me
+- [How Bad Do You Want It](https://www.youtube.com/watch?v=-raYgOmYPvQ)
+- [The Rock's Speech to the Lakers](https://www.youtube.com/watch?v=W5tlGJwvmCQ&t=3s) 
+- [You Owe You](https://www.youtube.com/watch?v=7Oxz060iedY) 
+- [What Drives Kevin Garnett](https://www.youtube.com/watch?v=p2bwsLSeYcc)  
 
 ## Advice I have for Career Changers
 - Embrace your past experiences and see where you can draw connections
