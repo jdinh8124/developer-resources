@@ -53,7 +53,7 @@ Technology has always been a driving force in my career and it has led me to Lea
 
 ## Articles I love from others
 - [Kobe Bryant Work Ethics into your daily life by Arish Dubash](https://www.linkedin.com/pulse/8-ways-immortalize-kobe-bryants-work-ethic-your-daily-arish-dubash/)
-
+- [Former Radioshack CEO is now a Doctor on the Front Lines of Covid-19](https://nationalpost.com/news/canada/second-act-former-ceo-of-radioshack-now-an-er-doctor-on-frontlines-of-covid-19-fight)
 
 ## Motivational Speakers & Celebrities That Inspire Me
 - Eric Thomas (Hard Work & Using your past failures to fuel you)
