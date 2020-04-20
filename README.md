@@ -18,6 +18,7 @@ Technology has always been a driving force in my career and it has led me to Lea
 - Syntax
 - Soft Skills Engineering
 - Full Stack Radio
+- The Changelog
 
 ## Resources I use to practice whiteboard questions
 - Edabit
