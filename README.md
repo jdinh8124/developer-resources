@@ -2,7 +2,7 @@
 - A repository of resources that helped me grow as a developer and created to help others down a similar path.
 
 ## Background
-Hello, my name is James Dinh, and I am a developer who is passionate about development, coding, search engine optimization, accessibility, UX & UI design, learning new technologies and the role of technology in education.
+Hello, my name is James Dinh, and I am a software developer who is passionate about development, coding, search engine optimization, accessibility, UX & UI design, learning new technologies and the role of technology in education.
 
 I am a dedicated individual who is passionate about learning and growing in every facet of my professional life. There have been two themes throughout my career, my willingness to lead and my drive to help others succeed. I believe that collaboration and compassion for one another can go a long way in any team. My experiences as a teacher and coach have shaped me into the person I am today, and has led me to my current passion, software development.
 
@@ -58,11 +58,11 @@ Technology has always been a driving force in my career and it has led me to Lea
 
 ## Motivational Speakers & Celebrities That Inspire Me
 - Eric Thomas (Hard Work & Using your past failures to fuel you)
-- Kobe Bryant (Hard Work & Dedication)
+- Kobe Bryant (Mamba Mentality)
 - Jamie Foxx (As a story teller & Soft Skills)
 - John Wooden (As a life long coach & Mentor to others) 
 
-## Non Programming Books I Recommend That Have Helped Me in Programming
+## Non Programming Books I Recommend That Have Helped Me in Programming And Life
 - Grit by Angela Duckworth
 - Start With Why by Simon Sinek
 - How to Win Friends and Influence People by Dale Carnegie
@@ -77,5 +77,5 @@ Technology has always been a driving force in my career and it has led me to Lea
 - Embrace your past experiences and see where you can draw connections
 - Use your past experiences and failures to tell a story
 - How can you use your past struggles to fuel you?
-- Work harder in every aspect of your developer life to close the gap. Many of us don't have computer science degrees, how can we out grind others? (Articles, Networking, build great relationships, volunteer your time, look at yourself in the mirror how can you improve)
+- Work harder in every aspect of your developer life to close the gap. Some of us don't have computer science degrees, how can we out grind others? (Articles, Networking, build great relationships, volunteer your time, look at yourself in the mirror how can you improve)
 - See how you can serve others, make sure you have no ulterior motives 
