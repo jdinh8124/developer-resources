@@ -8,7 +8,7 @@ I am a dedicated individual who is passionate about learning and growing in ever
 
 Technology has always been a driving force in my career and it has led me to LearningFuze, where I studied Full Stack Web Development which helped me grow in the industry of coding and programming. While enrolled at LearningFuze I was immersed in HTML5, CSS3, JavaScript, NodeJs, React, PostgreSQL and a variety of other libraries and frameworks. Most importantly, I gained the skills necessary towards learning new languages and technologies that will help me continue to grow.
 
-Outside of work, I am a proud son, grandson, and uncle. Knowing that I have my family by my side motivates me to improve every single day. Feel free to reach out to me if you are ever in a similar position or would like to connect!
+Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I have my family by my side motivates me to improve every single day. Feel free to reach out to me if you are ever in a similar position or would like to connect!
 
 ## Podcasts I follow
 - Front End Happy Hour
@@ -80,4 +80,4 @@ Outside of work, I am a proud son, grandson, and uncle. Knowing that I have my f
 - How can you use your past struggles to fuel you?
 - Work harder in every aspect of your developer life to close the gap. Some of us don't have computer science degrees, how can we out grind others? (Articles, Networking, build great relationships, volunteer your time, look at yourself in the mirror how can you improve)
 - See how you can serve others, make sure you have no ulterior motives 
-- Take an interesting in others
+- Take an interest in others
