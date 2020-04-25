@@ -80,3 +80,4 @@ Outside of work, I am a proud son, grandson, and uncle. Knowing that I have my f
 - How can you use your past struggles to fuel you?
 - Work harder in every aspect of your developer life to close the gap. Some of us don't have computer science degrees, how can we out grind others? (Articles, Networking, build great relationships, volunteer your time, look at yourself in the mirror how can you improve)
 - See how you can serve others, make sure you have no ulterior motives 
+- Take an interesting in others
