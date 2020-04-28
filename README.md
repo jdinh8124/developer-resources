@@ -81,3 +81,5 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Work harder in every aspect of your developer life to close the gap. Some of us don't have computer science degrees, how can we out grind others? (Articles, Networking, build great relationships, volunteer your time, look at yourself in the mirror how can you improve)
 - See how you can serve others, make sure you have no ulterior motives 
 - Take an interest in others
+- Listen to podcasts and understand many things at a high level
+
