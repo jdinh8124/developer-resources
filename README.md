@@ -29,6 +29,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Code Drip
 - Web Dev Simplified
 - Joshua Fluke
+- Eric Thomas
 
 ## Advice I recommend outside of Coding
 - Working Out
@@ -39,6 +40,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Listen to diverse types of music
 - Take Breaks
 - Read 
+- Setting aside unnecessary distractions
 - Find your why 
 - Breathe
 - THRIVE 
