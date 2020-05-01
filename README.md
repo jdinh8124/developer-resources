@@ -58,7 +58,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 
 ## Articles I love from others
 - [Kobe Bryant Work Ethics into your daily life by Arish Dubash](https://www.linkedin.com/pulse/8-ways-immortalize-kobe-bryants-work-ethic-your-daily-arish-dubash/)
--[Being Laid off Does NOT Define you](https://www.linkedin.com/posts/rsweeney21_layoffs-covid19-activity-6661675705639718912-MBfM)
+- [Being Laid off Does NOT Define you](https://www.linkedin.com/posts/rsweeney21_layoffs-covid19-activity-6661675705639718912-MBfM)
 - [Former Radioshack CEO is now a Doctor on the Front Lines of Covid-19](https://nationalpost.com/news/canada/second-act-former-ceo-of-radioshack-now-an-er-doctor-on-frontlines-of-covid-19-fight)
 
 ## Motivational Speakers & Celebrities That Inspire Me
