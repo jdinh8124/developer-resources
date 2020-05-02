@@ -87,4 +87,4 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - See how you can serve others, make sure you have no ulterior motives 
 - Take an interest in others
 - Listen to podcasts and understand many things at a high level
-
+- Always show an interesting to continue to learn and grow. If you went to a bootcamp like myself, make sure to keep researching new technologies within the languages you have already learned. (If you learned javascript consider researching typescript, if you learned relational databases check out mongoDB, and how about how GraphQL can be a solid choice alternative to REST apis?) 
