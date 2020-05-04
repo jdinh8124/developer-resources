@@ -40,6 +40,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Spend time with your family between coding
 - Listen to diverse types of music
 - Take Breaks
+- Indirectly still learn about programming like podcasts
 - Read 
 - Setting aside unnecessary distractions
 - Find your why 
