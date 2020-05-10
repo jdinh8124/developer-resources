@@ -79,6 +79,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - [The Rock's Speech to the Lakers](https://www.youtube.com/watch?v=W5tlGJwvmCQ&t=3s) 
 - [You Owe You](https://www.youtube.com/watch?v=7Oxz060iedY) 
 - [What Drives Kevin Garnett](https://www.youtube.com/watch?v=p2bwsLSeYcc)  
+- [Failure is not an option | Elon Musk](https://www.youtube.com/watch?v=k9zTr2MAFRg&t=198s)
 
 ## Advice I have for Career Changers
 - Embrace your past experiences and see where you can draw connections
