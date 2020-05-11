@@ -29,8 +29,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 ## Youtubers I follow
 - Code Drip
 - Web Dev Simplified
-- Joshua Fluke
-- Eric Thomas
+
 
 ## Advice I recommend outside of Coding
 - Working Out
