@@ -61,6 +61,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - [Being Laid off Does NOT Define you](https://www.linkedin.com/posts/rsweeney21_layoffs-covid19-activity-6661675705639718912-MBfM)
 - [Former Radioshack CEO is now a Doctor on the Front Lines of Covid-19](https://nationalpost.com/news/canada/second-act-former-ceo-of-radioshack-now-an-er-doctor-on-frontlines-of-covid-19-fight)
 - [Investing in Yourself](https://www.linkedin.com/posts/adrianpetrie_mindset-belief-trust-activity-6661443648921702401-DLzr)
+- [Showcasing your Soft Skills](https://www.linkedin.com/posts/shakhloziyodullaeva_shakhloziyodullaeva-linkedin-careeradvices-activity-6667971752003432448-ZCLv)
 
 ## Motivational Speakers & Celebrities That Inspire Me
 - Eric Thomas (Hard Work & Using your past failures to fuel you)
