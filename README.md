@@ -90,3 +90,8 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Take an interest in others
 - Listen to podcasts and understand many things at a high level
 - Always show an interest to continue to learn and grow. If you went to a bootcamp like myself, make sure to keep researching new technologies within the languages you have already learned. (If you learned javascript consider researching typescript, if you learned relational databases check out mongoDB, and how about how GraphQL can be a solid choice alternative to REST apis?) 
+
+## Technologies I am Curious About
+- Deno
+- GraphQl
+
