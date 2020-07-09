@@ -3,7 +3,7 @@
 - Hello! I am a Software Engineer at Jonel Engineering! Feel free to reach out and say hello
 
 ## Background
-Hello, my name is James Dinh, and I am currently a software engineer who is passionate about development, coding, search engine optimization, accessibility, UX & UI design, learning new technologies and the role of technology in education.
+Hello, my name is James Dinh, and I am currently a software engineer at Jonel Engineering who is passionate about development, coding, search engine optimization, accessibility, UX & UI design, learning new technologies and the role of technology in education.
 
 I am a dedicated individual who is passionate about learning and growing in every facet of my professional life. There have been two themes throughout my career, my willingness to lead and my drive to help others succeed. I believe that collaboration and compassion for one another can go a long way in any team. My experiences as a teacher and coach have shaped me into the person I am today, and has led me to my current passion, software development.
 
@@ -55,6 +55,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - [Four Skills I Developed as a Coach That I've Applied To Programming](https://www.linkedin.com/pulse/four-skills-i-developed-coach-ive-applied-programming-james-dinh/)
 - [The Power of Why](https://www.linkedin.com/pulse/power-why-james-dinh/)
 - [10 Things That Require Zero Talent](https://www.linkedin.com/feed/update/urn:li:activity:6635591280305025024/)
+- [The Trials and tribulations make us strong](https://www.linkedin.com/posts/jdinh8124_things-that-happened-to-me-during-my-job-activity-6669713512278970368-B3Uv)
 
 ## Articles I love from others
 - [Kobe Bryant Work Ethics into your daily life by Arish Dubash](https://www.linkedin.com/pulse/8-ways-immortalize-kobe-bryants-work-ethic-your-daily-arish-dubash/)
@@ -94,4 +95,39 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 ## Technologies I am Curious About
 - Deno
 - GraphQl
+- Mocha 
 
+## My Complete Tech Stack & Tools
+- Typescript
+- Angular 
+- C# 
+- .NET Framework
+- HTML5
+- SCSS
+- Karma & Jasmine Testing
+- Bootstrap 4
+- RXJS
+- Moment.js
+- Git/GitLab
+- Slack
+- Microsoft SQL Server
+- Babel.js
+- Webpack
+- npm
+- Sourcetree
+- Bash/Shell
+- JavaScript
+- React.js
+- Node.js
+- PostgreSQL
+- Express.js
+- jQuery
+- Github
+- Google Analytics
+- AWS EC3
+- Ubuntu
+- Docker
+- CSS3
+- Graphql
+- Apollo 
+- Agile/Scrum
