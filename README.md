@@ -51,11 +51,13 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - [Portfolio](https://jamestdinh.com/)
 - [GitHub Landing Page](https://github.com/jdinh8124)
 
-## My Articles About Programming
+## My Articles & Interviews About Programming
 - [Four Skills I Developed as a Coach That I've Applied To Programming](https://www.linkedin.com/pulse/four-skills-i-developed-coach-ive-applied-programming-james-dinh/)
 - [The Power of Why](https://www.linkedin.com/pulse/power-why-james-dinh/)
 - [10 Things That Require Zero Talent](https://www.linkedin.com/feed/update/urn:li:activity:6635591280305025024/)
 - [The Trials and tribulations make us strong](https://www.linkedin.com/posts/jdinh8124_things-that-happened-to-me-during-my-job-activity-6669713512278970368-B3Uv)
+- [My Tips on Finding A Job During Covid-19](https://www.youtube.com/watch?v=8DHsoY5eCzA)
+
 
 ## Articles I love from others
 - [Kobe Bryant Work Ethics into your daily life by Arish Dubash](https://www.linkedin.com/pulse/8-ways-immortalize-kobe-bryants-work-ethic-your-daily-arish-dubash/)
