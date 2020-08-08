@@ -26,11 +26,6 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Edabit
 - CodeSignal
 
-## Youtubers I follow
-- Code Drip
-- Web Dev Simplified
-
-
 ## Advice I recommend outside of Coding
 - Working Out
 - Meditating and emphasis on mental health
@@ -59,7 +54,7 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - [My Tips on Finding A Job During Covid-19](https://www.youtube.com/watch?v=8DHsoY5eCzA)
 
 
-## Articles I love from others
+## Articles & Posts I love from others
 - [Kobe Bryant Work Ethics into your daily life by Arish Dubash](https://www.linkedin.com/pulse/8-ways-immortalize-kobe-bryants-work-ethic-your-daily-arish-dubash/)
 - [Being Laid off Does NOT Define you](https://www.linkedin.com/posts/rsweeney21_layoffs-covid19-activity-6661675705639718912-MBfM)
 - [Former Radioshack CEO is now a Doctor on the Front Lines of Covid-19](https://nationalpost.com/news/canada/second-act-former-ceo-of-radioshack-now-an-er-doctor-on-frontlines-of-covid-19-fight)
@@ -89,15 +84,16 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Use your past experiences and failures to tell a story
 - How can you use your past struggles to fuel you?
 - Work harder in every aspect of your developer life to close the gap. Some of us don't have computer science degrees, how can we out grind others? (Articles, Networking, build great relationships, volunteer your time, look at yourself in the mirror how can you improve)
-- See how you can serve others, make sure you have no ulterior motives 
+- See how you can serve others, make sure you have no ulterior motives (Not every coffee meet-up should be about finding a job)
 - Take an interest in others
 - Listen to podcasts and understand many things at a high level
-- Always show an interest to continue to learn and grow. If you went to a bootcamp like myself, make sure to keep researching new technologies within the languages you have already learned. (If you learned javascript consider researching typescript, if you learned relational databases check out mongoDB, and how about how GraphQL can be a solid choice alternative to REST apis?) 
 
 ## Technologies I am Curious About
 - Deno
 - GraphQl
 - Mocha 
+- JAM Stack
+- Swift
 
 ## My Complete Tech Stack & Tools
 - Typescript
