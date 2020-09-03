@@ -98,6 +98,8 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Mocha 
 - JAM Stack
 - Swift
+- Next.js
+- Gatsby
 
 ## My Complete Tech Stack & Tools
 - Typescript
