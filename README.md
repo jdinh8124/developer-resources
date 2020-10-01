@@ -12,6 +12,7 @@ Technology has always been a driving force in my career and it has led me to Lea
 Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I have my family by my side motivates me to improve every single day. Feel free to reach out to me if you are ever in a similar position or would like to connect!
 
 ## Podcasts I follow
+- Ladybug Podcast
 - Front End Happy Hour
 - JS Party
 - Developer Tea
@@ -20,10 +21,10 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 - Complete Developer Podcast
 - Syntax
 - Soft Skills Engineering
-- Full Stack Radio
+
 
 ## Resources I use to practice whiteboard questions
-- Edabit
+- Edabit 
 - CodeSignal
 
 ## Advice I recommend outside of Coding
