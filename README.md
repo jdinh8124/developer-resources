@@ -9,8 +9,6 @@ I am a dedicated individual who is passionate about learning and growing in ever
 
 Technology has always been a driving force in my career and it has led me to LearningFuze, where I studied Full Stack Web Development which helped me grow in the industry of coding and programming. While enrolled at LearningFuze I was immersed in HTML5, CSS3, JavaScript, NodeJs, React, PostgreSQL and a variety of other libraries and frameworks. Most importantly, I gained the skills necessary towards learning new languages and technologies that will help me continue to grow.
 
-Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I have my family by my side motivates me to improve every single day. Feel free to reach out to me if you are ever in a similar position or would like to connect!
-
 ## Podcasts I follow
 - Ladybug Podcast
 - Front End Happy Hour
@@ -47,7 +45,6 @@ Outside of work, I am a proud son, grandson, brother, and uncle. Knowing that I 
 🔗 [Portfolio](https://jamestdinh.com/)<br /> 
 💼 [Resume](https://drive.google.com/file/d/1e1ENhtUm4c7rVg7a-6Mi21lYzF8iQCuV/view?usp=sharing)<br /> 
 🐦 [Twitter](https://twitter.com/jdinh8124)<br /> 
-📝 [Dev](https://dev.to/jdinh8124)<br /> 
 👨🏻‍🏫 [Mentor/ Coding Coach](https://mentors.codingcoach.io/?name=James+Dinh)<br /> 
 👨🏽‍💻 [GitLab](https://gitlab.com/jdinh8124)<br /> 
 
