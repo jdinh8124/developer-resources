@@ -1,6 +1,5 @@
 # Developer Resoures
 - A repository of resources that helped me grow as a developer and created to help others down a similar path.
-- Hello! I am a Software Engineer at Jonel Engineering! Feel free to reach out and say hello
 
 ## Background
 Hello, my name is James Dinh, and I am currently a software engineer at Jonel Engineering who is passionate about development, coding, search engine optimization, accessibility, UX & UI design, learning new technologies and the role of technology in education.
@@ -24,6 +23,7 @@ Technology has always been a driving force in my career and it has led me to Lea
 ## Resources I use to practice whiteboard questions
 - Edabit 
 - CodeSignal
+- leetcode 
 
 ## Advice I recommend outside of Coding
 - Working Out
