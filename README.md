@@ -104,12 +104,12 @@ Technology has always been a driving force in my career and it has led me to Lea
 - Typescript
 - Angular 
 - C# 
-- .NET Framework
+- .NET 
 - HTML5
 - SCSS
-- Karma & Jasmine Testing
-- Bootstrap 4
-- RXJS
+- Karma & Jasmine for Testing
+- Bootstrap 
+- RXJS for reactive programming
 - Moment.js
 - Git/GitLab
 - Slack
@@ -127,10 +127,7 @@ Technology has always been a driving force in my career and it has led me to Lea
 - jQuery
 - Github
 - Google Analytics
-- AWS EC3
+- AWS EC2
 - Ubuntu
-- Docker
 - CSS3
-- Graphql
-- Apollo 
 - Agile/Scrum
