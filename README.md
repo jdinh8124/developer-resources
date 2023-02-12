@@ -10,6 +10,7 @@ Technology has always been a driving force in my career and it has led me to Lea
 
 ## Podcasts I follow
 - Ladybug Podcast
+- Code Newbie
 - Front End Happy Hour
 - JS Party
 - Developer Tea
@@ -31,7 +32,6 @@ Technology has always been a driving force in my career and it has led me to Lea
 - Networking! Meetups are super fun, find your niche!
 - LinkedIn Articles!
 - Spend time with your family between coding
-- Listen to diverse types of music
 - Take Breaks
 - Indirectly still learn about programming through mediums like podcasts
 - Read 
