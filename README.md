@@ -37,8 +37,7 @@ Technology has always been a driving force in my career and it has led me to Lea
 - Read 
 - Setting aside unnecessary distractions
 - Find your why 
-- Breathe
-- THRIVE 
+
 
 ## My Socials
 🔌 [LinkedIn](https://www.linkedin.com/in/jdinh8124/)<br /> 
